@@ -1,0 +1,55 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+dataset analyses on Winston Churchill corpus
+
+
+```{r}
+dir_path <- "../../data/stylo/all/corpus"
+dir_path
+```
+
+```{r}
+# Pakete installieren, falls noch nicht geschehen
+if (!require("stylo")) install.packages("stylo")
+if (!require("factoextra")) install.packages("factoextra")
+
+# Pakete laden
+library(stylo)
+library(factoextra)
+```
+
+opening the Stylo graphical user interface
+```{r}
+stylo.results = stylo() # optional arguments might be passed
+print(stylo.results)
+summary(stylo.results)
+```
+
+```{r}
+# Stylometrische Analyse durchführen
+# Wir verwenden hier 'gui = FALSE', da wir das Skript nicht interaktiv ausführen
+ergebnisse <- stylo(gui = FALSE, corpus_dir = dir_path, analysis_type = "CA", 
+                    custom_range_culling = 0, preserve_word_endings = TRUE)
+```
+```{r}
+colnames(ergebnisse)
+```
+
+```{r}
+# PCA basierend auf den Ergebnissen der Stylometrie durchführen
+# Die Funktion 'stylo' könnte bereits eine PCA durchführen, abhängig von der gewählten Analyseart
+# Wenn nötig, kann man die Ergebnisse weiter mit dem Paket 'factoextra' analysieren
+pca_ergebnisse <- prcomp(ergebnisse$MFW_table, scale. = TRUE)
+
+# PCA-Ergebnisse plotten
+fviz_pca_ind(pca_ergebnisse, col.ind = "cos2", 
+             gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"), 
+             repel = TRUE, # Vermeiden von Textüberlappung
+             title = "PCA der stylometrischen Analyse")
+
+
+```

@@ -1,0 +1,55 @@
+# prompt inspired by:
+# https://influencermarketinghub.com/ai-prompt-optimization/
+#
+# prompt:
+# write a speech about climate change in style of winston churchill.
+# use the original speech of winston churchill, written below as a reference.
+# 
+# original speech:
+# """
+# Yesterday morning at 2:41 a.m. at Headquarters, General Jodl, the representative of the German High Command, and Grand Admiral Doenitz, the designated head of the German State, signed the act of unconditional surrender of all German Land, sea, and air forces in Europe to the Allied Expeditionary Force, and simultaneously to the Soviet High Command.
+# 
+# General Bedell Smith, Chief of Staff of the Allied Expeditionary Force, and General Francois Sevez signed the document on behalf of the Supreme Commander of the Allied Expeditionary Force, and General Susloparov signed on behalf of the Russian High Command.
+# 
+# To-day this agreement will be ratified and confirmed at Berlin, where Air Chief Marshal Tedder, Deputy Supreme Commander of the Allied Expeditionary Force, and General de Lattre de Tassigny will sign on behalf of General Eisenhower. Marshal Zhukov will sign on behalf of the Soviet High Command. The German representatives will be Field-Marshal Keitel, Chief of the High Command, and the Commanders-in- Chief of the German Army, Navy, and Air Forces.
+# 
+# Hostilities will end officially at one minute after midnight to-night (Tuesday, May 8), but in the interests of saving lives the “Cease fire” began yesterday to be sounded all along the front, and our dear Channel Islands are also to be freed to-day.
+# 
+# The Germans are still in places resisting the Russian troops, but should they continue to do so after midnight they will, of course, deprive themselves of the protection of the laws of war, and will be attacked from all quarters by the Allied troops. It is not surprising that on such long fronts and in the existing disorder of the enemy the orders of the German High Command should not in every case be obeyed immediately. This does not, in our opinion, with the best military advice at our disposal, constitute any reason for withholding from the nation the facts communicated to us by General Eisenhower of the unconditional surrender already signed at Rheims, nor should it prevent us from celebrating to-day and to-morrow (Wednesday) as Victory in Europe days.
+# 
+# To-day, perhaps, we shall think mostly of ourselves. To-morrow we shall pay a particular tribute to our Russian comrades, whose prowess in the field has been one of the grand contributions to the general victory.
+# 
+# The German war is therefore at an end. After years of intense preparation, Germany hurled herself on Poland at the beginning of September, 1939; and, in pursuance of our guarantee to Poland and in agreement with the French Republic, Great Britain, the British Empire and Commonwealth of Nations, declared war upon this foul aggression. After gallant France had been struck down we, from this Island and from our united Empire, maintained the struggle single-handed for a whole year until we were joined by the military might of Soviet Russia, and later by the overwhelming power and resources of the United States of America.
+# 
+# Finally almost the whole world was combined against the evil-doers, who are now prostrate before us. Our gratitude to our splendid Allies goes forth from all our hearts in this Island and throughout the British Empire.
+# 
+# We may allow ourselves a brief period of rejoicing; but let us not forget for a moment the toil and efforts that lie ahead. Japan, with all her treachery and greed, remains unsubdued. The injury she has inflicted on Great Britain, the United States, and other countries, and her detestable cruelties, call for justice and retribution. We must now devote all our strength and resources to the completion of our task, both at home and abroad. Advance, Britannia! Long live the cause of freedom! God save the King!
+# 
+# [Editor’s Note: After making his broadcast announcement of Germany’s unconditional surrender, Churchill read the same statement to the House of Commons shortly afterwards and added]
+# 
+# That is the message which I have been instructed to deliver to the British Nation and Commonwealth. I have only two or three sentences to add. They will convey to the House my deep gratitude to this House of Commons, which has proved itself the strongest foundation for waging war that has ever been seen in the whole of our long history. We have all of us made our mistakes, but the strength of the Parliamentary institution has been shown to enable it at the same moment to preserve all the title-deeds of democracy while waging war in the most stern and protracted form. I wish to give my hearty thanks to men of all Parties, to everyone in every part of the House where they sit, for the way in which the liveliness of Parliamentary institutions has been maintained under the fire of the enemy, and for the way in which we have been able to persevere-and we could have persevered much longer if need had been-till all the objectives which we set before us for the procuring of the unlimited and unconditional surrender of the enemy had been achieved. I recollect well at the end of the last war, more than a quarter of a century ago, that the House, when it heard the long list of the surrender terms, the armistice terms, which had been imposed upon the Germans, did not feel inclined for debate or business, but desired to offer thanks to Almighty God, to the Great Power which seems to shape and design the fortunes of nations and the destiny of man; and I therefore beg, Sir, with your permission to move:
+# 
+# That this House do now attend at the Church of St. Margaret, Westminster, to give humble and reverent thanks to Almighty God for our deliverance from the threat of German domination.
+# 
+# This is the identical Motion which was moved in former times.
+# 
+# and write a similar speech about climate change in style of winston churchill
+# """
+
+Ladies and gentlemen, esteemed colleagues, and the citizens of the world,
+
+As we gather in the spirit of resolve and determination, a shadow looms over us, cast not by the ambition of conquest but by the specter of climate change—a challenge no less formidable than the adversaries we have faced in wars past. This moment in history, much like the dawn of peace in 1945, calls for a declaration not of victory but of action, of commitment, and of an unyielding dedication to the future of our planet.
+
+Just as the representatives of the Allied and Axis powers convened to mark the end of hostilities, so must we, the representatives of all nations, convene in a spirit of cooperation and urgency. We must sign our own act of unconditional commitment—to reduce emissions, to preserve our forests and oceans, and to innovate towards a sustainable future. This commitment must be as binding and as total as the surrender of forces in war, for we face an adversary that knows no borders, discriminates against no nation, and spares no ecosystem on our shared Earth.
+
+The hostilities of climate change are already upon us, making their presence felt through rising seas, devastating storms, and scorching droughts. Yet, in the interest of saving not just lives but the very future of our civilization, we must sound the "Cease fire" on carbon emissions, deforestation, and environmental degradation. The time to act is not tomorrow, but today, for our actions now will determine the world of our children and grandchildren.
+
+As the Germans found resistance in their ranks, so too may we find resistance among those who deny the urgency of our crisis or the impact of our actions. But let it be known that after the stroke of midnight on the deadline of our climate goals, those who continue to resist will not only deprive themselves of the protection of nature's laws but will face the collective action of the world united in defense of our planet.
+
+Today, we think of the Earth. Tomorrow, we must act for its salvation, recognizing the prowess of renewable energy, the grand contributions of conservation efforts, and the indispensable role of sustainable development in our general victory over climate degradation.
+
+The battle against climate change is indeed our World War. It is a conflict against the consequences of our own industrial and economic expansion, launched unwittingly upon ourselves and our planet. In response, as we once stood united against the forces of destruction and tyranny, let us now stand united against the forces of environmental collapse. Our gratitude must go forth to all nations and peoples who join this cause, from the largest empires to the smallest island states.
+
+We may allow ourselves a brief moment of hope, but let us not forget for a moment the work and sacrifices that lie ahead. The enemy of inaction remains at large, fueled by short-sightedness and greed. The damage inflicted upon our environment calls for justice—not through retribution but through restoration and rejuvenation. We must now devote all our strength and resources to the completion of our task, both at home and globally. Advance, humanity! Long live the cause of our planet's future!
+
+And so, with a heart both heavy and hopeful, I deliver this message to the nations of the world, echoing the gratitude and resolve that this historic challenge demands. Let us move forward, not as separate countries, but as a united world, preserving all the precious resources of our planet while facing the most stern and protracted form of battle: the battle for our survival. In the spirit of unity and determination that has seen us through the darkest times, let us now turn our collective might towards ensuring the light of a sustainable future for all.

@@ -1,0 +1,49 @@
+{
+    "sources": [
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/greta thunberg",
+            "label": "cc", "sublabel": "gt"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/un",
+            "label": "cc", "sublabel": "un"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/unfccc",
+            "label": "cc", "sublabel": "unfccc"
+        },
+
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/politicians/John F. Kennedy",
+            "label": "jfk", "sublabel": ""
+        },
+
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/climate change",
+            "label": "gpt35cc", "sublabel": ""
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/climate change John F. Kennedy",
+            "label": "gpt35ccjfk", "sublabel": ""
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/John F. Kennedy",
+            "label": "gpt35jfk", "sublabel": ""
+        },
+        
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/climate change",
+            "label": "gpt4cc", "sublabel": ""
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/climate change John F. Kennedy",
+            "label": "gpt4ccjfk", "sublabel": ""
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/John F. Kennedy",
+            "label": "gpt4jfk", "sublabel": ""
+        }
+    ],
+    "output_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/stylo/john f kennedy topic_modelling/corpus",
+    "encoding": "topic_modelling"
+}

@@ -1,0 +1,48 @@
+{
+    "sources": [
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/greta thunberg",
+            "label": "cc", "sublabel": "gt"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/un",
+            "label": "cc", "sublabel": "un"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/unfccc",
+            "label": "cc", "sublabel": "unfccc"
+        },
+
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/politicians/Margaret Thatcher",
+            "label": "mt", "sublabel": ""
+        },
+
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/climate change",
+            "label": "gpt35cc", "sublabel": ""
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/climate change Margaret Thatcher",
+            "label": "gpt35ccmt", "sublabel": ""
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/Margaret Thatcher",
+            "label": "gpt35mt", "sublabel": ""
+        },
+        
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/climate change",
+            "label": "gpt4cc", "sublabel": ""
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/climate change Margaret Thatcher",
+            "label": "gpt4ccmt", "sublabel": ""
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/Margaret Thatcher",
+            "label": "gpt4mt", "sublabel": ""
+        }
+    ],
+    "output_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/stylo/margaret thatcher/corpus"
+}

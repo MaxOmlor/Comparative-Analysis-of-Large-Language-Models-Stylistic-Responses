@@ -1,0 +1,96 @@
+{
+    "sources": [
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/greta thunberg",
+            "label": "cc", "sublabel": "gt"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/un",
+            "label": "cc", "sublabel": "un"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/unfccc",
+            "label": "cc", "sublabel": "unfccc"
+        },
+
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/politicians/John F. Kennedy",
+            "label": "jfk", "sublabel": ""
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/politicians/Margaret Thatcher",
+            "label": "mt", "sublabel": ""
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/politicians/Winston Churchill",
+            "label": "wc", "sublabel": ""
+        },
+
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/climate change",
+            "label": "gpt35", "sublabel": "cc"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/climate change John F. Kennedy",
+            "label": "gpt35", "sublabel": "ccjfk"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/climate change Margaret Thatcher",
+            "label": "gpt35", "sublabel": "ccmt"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/climate change winston churchill",
+            "label": "gpt35", "sublabel": "ccwc"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/rag winston churchill",
+            "label": "gpt35", "sublabel": "ragwc"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/John F. Kennedy",
+            "label": "gpt35", "sublabel": "jfk"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/Margaret Thatcher",
+            "label": "gpt35", "sublabel": "mt"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/winston churchill",
+            "label": "gpt35", "sublabel": "wc"
+        },
+        
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/climate change",
+            "label": "gpt4", "sublabel": "cc"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/climate change John F. Kennedy",
+            "label": "gpt4", "sublabel": "ccjfk"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/climate change Margaret Thatcher",
+            "label": "gpt4", "sublabel": "ccmt"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/climate change winston churchill",
+            "label": "gpt4", "sublabel": "ccwc"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/rag winston churchill",
+            "label": "gpt4", "sublabel": "ragwc"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/John F. Kennedy",
+            "label": "gpt4", "sublabel": "jfk"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/Margaret Thatcher",
+            "label": "gpt4", "sublabel": "mt"
+        },
+        {
+            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/winston churchill",
+            "label": "gpt4", "sublabel": "wc"
+        }
+    ],
+    "output_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/stylo/all/corpus"
+}
