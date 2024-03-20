@@ -1,57 +1,57 @@
 {
     "sources": [
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/greta thunberg",
+            "input_dir": "data/climate change/greta thunberg",
             "label": "cc", "sublabel": "gt"
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/un",
+            "input_dir": "data/climate change/un",
             "label": "cc", "sublabel": "un"
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/unfccc",
+            "input_dir": "data/climate change/unfccc",
             "label": "cc", "sublabel": "unfccc"
         },
 
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/politicians/Winston Churchill",
+            "input_dir": "data/politicians/Winston Churchill",
             "label": "wc", "sublabel": ""
         },
 
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/climate change",
+            "input_dir": "data/gpt3_5/climate change",
             "label": "gpt35cc", "sublabel": ""
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/climate change winston churchill",
+            "input_dir": "data/gpt3_5/climate change winston churchill",
             "label": "gpt35ccwc", "sublabel": ""
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/rag winston churchill",
+            "input_dir": "data/gpt3_5/rag winston churchill",
             "label": "gpt35ragwc", "sublabel": ""
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt3_5/winston churchill",
+            "input_dir": "data/gpt3_5/winston churchill",
             "label": "gpt35wc", "sublabel": ""
         },
         
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/climate change",
+            "input_dir": "data/gpt4/climate change",
             "label": "gpt4cc", "sublabel": ""
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/climate change winston churchill",
+            "input_dir": "data/gpt4/climate change winston churchill",
             "label": "gpt4ccwc", "sublabel": ""
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/rag winston churchill",
+            "input_dir": "data/gpt4/rag winston churchill",
             "label": "gpt4ragwc", "sublabel": ""
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/gpt4/winston churchill",
+            "input_dir": "data/gpt4/winston churchill",
             "label": "gpt4wc", "sublabel": ""
         }
     ],
-    "output_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/stylo/winston churchill topic_words/corpus",
+    "output_dir": "data/stylo/winston churchill topic_words/corpus",
     "encoding": "topic_words"
 }

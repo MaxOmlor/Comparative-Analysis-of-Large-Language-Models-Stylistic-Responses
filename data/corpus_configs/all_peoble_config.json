@@ -1,26 +1,26 @@
 {
     "sources": [
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/greta thunberg",
+            "input_dir": "data/climate change/greta thunberg",
             "label": "gt", "sublabel": ""
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/climate change/un",
+            "input_dir": "data/climate change/un",
             "label": "un", "sublabel": ""
         },
 
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/politicians/John F. Kennedy",
+            "input_dir": "data/politicians/John F. Kennedy",
             "label": "jfk", "sublabel": ""
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/politicians/Margaret Thatcher",
+            "input_dir": "data/politicians/Margaret Thatcher",
             "label": "mt", "sublabel": ""
         },
         {
-            "input_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/politicians/Winston Churchill",
+            "input_dir": "data/politicians/Winston Churchill",
             "label": "wc", "sublabel": ""
         }
     ],
-    "output_dir": "C:/Users/Max/Documents/Studium/Leipzig/M 5. Semester/dh/data/stylo/all_peoble/corpus"
+    "output_dir": "data/stylo/all_peoble/corpus"
 }
